@@ -13,7 +13,7 @@ This tool decodes a secret message written on your paper.Please read everything 
 
 ## Using Mobile?
 
-You can copy the code into **Pydroid** (downlod it ffrom Play Store) and run it there! *
+You can copy the code into **Pydroid** (download it ffrom Play Store) and run it there! *
 
 ## Safety Note 📝
 
