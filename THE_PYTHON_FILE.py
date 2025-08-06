@@ -10,7 +10,7 @@ cipher = {
 
 while True:
     lines = []
-    print("Enter CIPHER here \n (Type 'END'  in a new line after typing or pasting the text to reveal the output): ")
+    print("Enter CIPHERTEXT here \n(Type 'END'  in a new line after typing or pasting the text to reveal the output) \nCheck the characters and spaces to avoid errors.👍")
     while True:
         line = input()
         if line.upper().strip() == 'END':
