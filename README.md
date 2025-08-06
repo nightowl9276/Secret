@@ -2,7 +2,7 @@
 
 Welcome, curious one 😉.
 
-This tool decodes a secret message written on your paper.Please read everything written here carefully(* -1alph)!.
+This tool decodes a secret message written on your paper.Please read everything written here carefully(* -1 alph in alph order)!.
 
 ## How to Use (If you have a PC)
 1. Install Python (version 3.6+ recommended).
