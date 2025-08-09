@@ -1,6 +1,6 @@
 # Secret CipherText Decoder 
 
-Welcome, to thee WhitePearl 👻.
+Welcome, to you WhitePearl 👻.
 
 This tool decodes a secret message written on your paper.Please read everything written here carefully(* -1 alph )!.
 
