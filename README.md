@@ -1,8 +1,8 @@
 # Secret CipherText Decoder 
 
-Welcome, curious one 😉.
+Welcome, to thee WhitePearl 👻.
 
-This tool decodes a secret message written on your paper.Please read everything written here carefully(* -1 alph in alph order)!.
+This tool decodes a secret message written on your paper.Please read everything written here carefully(* -1 alph )!.
 
 ## How to Use (If you have a PC)
 1. Install Python (version 3.6+ recommended).
