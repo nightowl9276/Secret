@@ -1,4 +1,4 @@
-# Secret CipherText Decoder 
+# CipherText Decoder 
 
 Welcome, to you WhitePearl 👻.
 
