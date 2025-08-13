@@ -14,7 +14,8 @@ Welcome, to you WhitePearl 👻.
 
 ## Using Mobile?
 
-You can copy the code into **Pydroid** (download it ffrom Play Store) and run it! *
+→ You can copy the code into **Pydroid** (download it ffrom Play Store) and run it! *
+→ Or just use a python online compiler.(eg: **https://onecompiler.com/python** OR **http://programiz.com/python-programming/online-compiler**)
 
 ## Safety Note 📝
 
