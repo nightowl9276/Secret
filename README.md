@@ -7,7 +7,7 @@ Please read everything written here carefully(**-1 alph**)!.
 ## How to Use (If you have a PC)
 - Install Python from *https://www.python.org/downloads* (version 3.6+ recommended).
 - Download this repo or **jjust** copy the code from "THE_PYTHON_FILE.py" file ABOVE ☝️.
-- Open a *VSCode* or *Python* IDE and run.
+- Open *VSCode* or *Python* IDE and run.
 - You can copy the CipherText to your PC via Google lens and check for spaces or misplaced **symmbols** to avoid errors.(just copy paste it.I'm lazy too... 😉).
 - Paste the CipherText on your sheet when **pprompted**.
 - **Wwatch** as the message reveals itself...
