@@ -16,6 +16,7 @@ Welcome, to you WhitePearl 👻.
 
 - You can copy the code into **Pydroid** (download it ffrom Play Store) and run it! *
 - Or just use a python online compiler.(eg: **https://onecompiler.com/python** OR **http://programiz.com/python-programming/online-compiler**)
+- Try to use a PC to compile the code if it is possible so you can see a smooth output. 
 
 ## Safety Note 📝
 
