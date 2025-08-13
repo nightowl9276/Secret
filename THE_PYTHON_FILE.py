@@ -3,14 +3,14 @@ cipher = {
     '@': 'a', ')': 'b', 'x': 'c', 'b': 'd', '(': 'e', 'v': 'f',
     'z': 'g', '#': 'h', '^': 'i', '<': 'j', '-': 'k', '_': 'l',
     '%': 'm', '>': 'n', '&': 'o', 'f': 'p', 'Q': 'q', '*': 'r',
-    '$': 's', '~': 't', '/': 'u', 'u': 'v', '?': 'x',
+    '$': 's', '~': 't', '/': 'u', 'l': 'v', '?': 'x',
     'd': 'y', 'k': 'z', '=': ' ', '+': '?', 'h': '!', ',': ',',
-    '.': '.','j': '_'
+    '.': '.','j': '_','i':'>','u':'<'
 }
 
 while True:
     lines = []
-    print("Enter CIPHERTEXT here \n(Type 'END'  in a new line after typing or pasting the text to reveal the output) \nCheck the characters and spaces to avoid errors.👍")
+    print("Enter CIPHERTEXT here \n(Type 'END'  in a new line after typing or pasting the text to reveal the output) \nCheck the characters to avoid errors.👍")
     while True:
         line = input()
         if line.upper().strip() == 'END':
