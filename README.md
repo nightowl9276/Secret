@@ -5,7 +5,7 @@ You might be thinking what to do with that piece of paper.
 Dont worry... The fun awaits...
 ## Task
 The sheet holds a Ciphertext and only the decoder can reveal it.
-- Please read everything written here carefully(👉 **-1 alph** 👈)!.
+- Please read everything written here carefully because there might be something hidden inside (👉 **-1 alph** 👈)!.
 
 # How to Begin?
  ## If you have a PC
