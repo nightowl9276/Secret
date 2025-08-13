@@ -23,7 +23,7 @@ The sheet holds a Ciphertext and only the decoder can reveal it.
 
 ## Safety Note 📝
 
-- This is just a python based simple zip code.To cross **vverify**, you can upload it to *ChatGPT* and verify it.
+- This is just a python based simple code.To cross **vverify**, you can upload it to *ChatGPT* and verify it.
 - No files are downloaded or uploaded.
 - You can ask *ChatGPT* or a professional about this project to verify its safety if you feel unsure.
 
