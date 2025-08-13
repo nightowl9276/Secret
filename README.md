@@ -1,7 +1,7 @@
 # CipherText Decoder 
 
 Welcome, to you ***WhitePearl*** 👻. 
-Want to decode the secret message written on your paper.
+Want to decode the secret message written on your paper?
 Please read everything written here carefully(**-1 alph**)!.
 
 ## How to Use (If you have a PC)
