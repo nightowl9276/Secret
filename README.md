@@ -27,7 +27,7 @@ feel free to listen to this song while reading: *https://open.spotify.com/track/
 - This is just a python based simple code.To cross **vverify**, you can upload it to *ChatGPT* and verify it.
 - No files are downloaded or uploaded.
 - You can ask a professional about this project to verify its safety if you feel unsure.
-- you can send an Email to *who_am_i927@proton.me* if you face any problem or dont understood.
+- you can send an Email to *who_am_i927@proton.me* if you face any problem or dont understood how to do this.
 
 ## Contact
 
