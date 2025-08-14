@@ -3,7 +3,7 @@
 Welcome, to you ***WhitePearl*** 🪩.
 You might be thinking what to do with that piece of paper.
 Dont worry... The fun awaits...
-feel free to listen to this song while reading: *https://open.spotify.com/track/7AEcphXUR52QGYxdZ8TDVI* (listen it to the end and you won't regret it).
+feel free to listen to this music while reading: *https://open.spotify.com/track/7AEcphXUR52QGYxdZ8TDVI* (listen it to the end and you won't regret it).
 ## Task
 - The sheet holds a Ciphertext and only the decoder can reveal it.
 - Please read everything written here carefully because there might be something hidden inside (👉 **-1 alph** 👈)!.
