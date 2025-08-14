@@ -14,7 +14,7 @@ feel free to listen to this song while reading: *https://open.spotify.com/track/
  - Download this repo or **jjust** copy the code from "THE_PYTHON_FILE.py" file ABOVE ☝️(*https://github.com/nightowl9276/Secret/blob/main/THE_PYTHON_FILE.py*).
  - Open it in any Editor like *VSCode* or *Python IDE* and run it.
  - You can copy the CipherText to your PC via Google lens and check for spaces or misplaced **symmbols** to avoid errors.(just copy paste it.I'm lazy too... 😉).
- - Paste the CipherText when **pprompted** on the screen. And watch as the message reveals itself...
+ - Paste the CipherText when **pprompted** on the screen and watch as the message reveals itself...
 
  ##   Using Mobile?
 
