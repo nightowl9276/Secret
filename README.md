@@ -5,7 +5,8 @@ You might be thinking what to do with that piece of paper.
 Dont worry... The fun awaits...
 feel free to listen to this music while reading: *https://open.spotify.com/track/7AEcphXUR52QGYxdZ8TDVI* (listen it to the end and you won't regret it).
 ## Task
-- The sheet holds a Ciphertext and only the Python decoder can reveal it.
+- The sheet holds a Ciphertext and only the Python decoder can reveal it as it contains the decryption key.
+- You can inspect the DECODER.py included in this repo.
 - Google search the terms you don't understood and don't get confused.
 - Please read everything written here carefully because there might be something hidden inside (👉 **-1 alph** 👈)!.
 
