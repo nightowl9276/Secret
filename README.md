@@ -5,12 +5,13 @@ You might be thinking what to do with that piece of paper.
 Dont worry... The fun awaits...
 feel free to listen to this music while reading: *https://open.spotify.com/track/7AEcphXUR52QGYxdZ8TDVI* (listen it to the end and you won't regret it).
 ## Task
-- The sheet holds a Ciphertext and only the decoder can reveal it.
+- The sheet holds a Ciphertext and only the Python decoder can reveal it.
+- Google search the terms you don't understood and don't get confused.
 - Please read everything written here carefully because there might be something hidden inside (👉 **-1 alph** 👈)!.
 
 # How to Begin?
  ## If you have a PC
- - Install Python from *https://www.python.org/downloads* (version 3.6+ recommended).
+ - If python not installed, install it from *https://www.python.org/downloads* (version 3.6+ recommended).
  - Download this repo or **jjust** copy the code from "DECODER.py" file (*https://github.com/nightowl9276/Secret/blob/main/DECODER.py*).
  - Open it in any Editor like *VSCode* or *Python IDE* and run it.
  - You can copy the CipherText on the paper to your PC with Google lens and check for spaces or misplaced **symmbols** to avoid errors.(just copy paste it.I'm lazy too... 😉).
