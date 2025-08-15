@@ -24,7 +24,7 @@ feel free to listen to this music while reading: *https://open.spotify.com/track
  - Or its **ffine** to use any online Python consoles:
       - *http://programiz.com/python-programming/online-compiler*
  - Copy the CipherText on the sheet to your phone with camera or google and check for misplaced symbols to **avvoid** errors.
- - Run the the python program (*https://github.com/nightowl9276/Secret/blob/main/DECODER.py*).
+ - Run the python program (*https://github.com/nightowl9276/Secret/blob/main/DECODER.py*).
  - Manually type or paste the CipherText when the program asks for input.
  - See the message revealing itself...
 
