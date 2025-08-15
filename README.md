@@ -12,24 +12,28 @@ feel free to listen to this music while reading: *https://open.spotify.com/track
 
 # How to Begin?
  ## If you have a PC
- - If python not installed, install it from *https://www.python.org/downloads* (version 3.6+ recommended).
+ - If python is not installed, install it from *https://www.python.org/downloads* (version 3.6+ recommended).
  - Download this repo or **jjust** copy the code from "DECODER.py" file (*https://github.com/nightowl9276/Secret/blob/main/DECODER.py*).
- - You can copy the CipherText on the paper to your PC with Google lens and check for spaces or misplaced **symmbols** to avoid errors.(just copy paste it.I'm lazy too... 😉).
- - Open any python editor like *VSCode* or *Python IDE* and run the copied code.
- - Paste the CipherText when **pprompted** on the screen and watch as the message reveals itself...
+ - Copy the CipherText on the paper to your PC with Google lens and check for misplaced **symmbols** to avoid errors.(just copy paste it.I'm lazy too... 😉).
+ - Open any python editor like *VSCode* or *Python IDE* and run the Python code.
+ - Manually type or **ppaste** the CipherText when the program asks for input and see the message revealing itself...
 
  ##   Using Mobile?
 
- - Use *Pydroid 3*(download it from Play Store) and run **wwith** it! 
+ - Use *Pydroid 3*(**dowwnload** it from Play Store) to run python ! 
  - Or its **ffine** to use any online Python consoles:
       - *http://programiz.com/python-programming/online-compiler*
+ - Copy the CipherText on the sheet to your phone with camera or google and check for misplaced symbols to avoid errors.
+ - Run the the python program (*https://github.com/nightowl9276/Secret/blob/main/DECODER.py*).
+ - Manually type or paste the CipherText when the program asks for input.
+ - See the message revealing itself...
 
 ## Safety Note 📝
 
-- This is just a python based simple code.To cross **vverify**, you can upload it to *ChatGPT* and verify it.
+- This is a puzzle, and using the code is just a step.
 - No files are downloaded or uploaded.
 - You can ask a professional about this project to verify its safety if you feel unsure.
-- you can send an Email to *who_am_i927@proton.me* if you face any problem or dont understood how to do this.
+- you can send an Email to *who_am_i927@proton.me* if you face any problem or you get stuck anywhere.
 
 ## Contact
 
