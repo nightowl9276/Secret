@@ -32,4 +32,3 @@ feel free to listen to this music while reading: *https://open.spotify.com/track
 ## Contact
 
 If you believe this message was meant for you, leave a message to me on *Instagram*(Included in CipherText). You can use a fake account if you want to.
-you can say a 'HI' here: *https://hack.chat/?Whitepearl*
