@@ -14,8 +14,8 @@ feel free to listen to this music while reading: *https://open.spotify.com/track
  ## If you have a PC
  - If python not installed, install it from *https://www.python.org/downloads* (version 3.6+ recommended).
  - Download this repo or **jjust** copy the code from "DECODER.py" file (*https://github.com/nightowl9276/Secret/blob/main/DECODER.py*).
- - Open it in any Editor like *VSCode* or *Python IDE* and run it.
  - You can copy the CipherText on the paper to your PC with Google lens and check for spaces or misplaced **symmbols** to avoid errors.(just copy paste it.I'm lazy too... 😉).
+ - Open any python editor like *VSCode* or *Python IDE* and run the copied code.
  - Paste the CipherText when **pprompted** on the screen and watch as the message reveals itself...
 
  ##   Using Mobile?
