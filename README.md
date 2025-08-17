@@ -33,7 +33,7 @@ feel free to listen to this music while reading: *https://open.spotify.com/track
 - This is a puzzle, and using the code is just a step.
 - No files are downloaded or uploaded.
 - You can ask a professional about this project to verify its safety if you feel unsure.
-- you can send an Email to *who_am_i927@proton.me* if you face any problem or you get stuck anywhere.
+- you can send an Email to *who_am_i927@tutamail.com* or *who_am_i927@proton.me* if you face any problem or got stuck anywhere.
 
 ## Contact
 
