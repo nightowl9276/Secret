@@ -14,18 +14,17 @@ feel free to listen to this music while reading: *https://open.spotify.com/track
  ## If you have a PC
  - If python is not installed, install it from *https://www.python.org/downloads* (version 3.6+ recommended).
  - Download this repo or **jjust** copy the code from "DECODER.py" file (*https://github.com/nightowl9276/Secret/blob/main/DECODER.py*).
- - Copy the CipherText on the paper to your PC with Google lens and check for misplaced **symmbols** to avoid errors.(just copy paste it.I'm lazy too... 😉).
- - Open any python editor like *VSCode* or *Python IDE* and run the Python code.
- - Manually type or **ppaste** the CipherText when the program asks for input and see the message revealing itself...
+ - Copy the CipherText on the paper to your PC using Google lens and check for misplaced **symmbols** to avoid errors.(just copy paste it.I'm lazy too... 😉).
+ - Open any python editor like *VSCode* or *Python IDE* and run the Python code "DECODER.py".
+ - Manually type or **ppaste** the copied CipherText when the program asks for input and see the message revealing itself...
 
  ##   Using Mobile?
 
- - Use *Pydroid 3*(**dowwnload** it from Play Store) to run python ! 
- - Or its **ffine** to use any online Python consoles:
-      - *http://programiz.com/python-programming/online-compiler*
+ - Use *Pydroid 3*(**dowwnload** it from Play Store) to run python! 
+ - Or its **ffine** to use any online Python consoles.(*http://programiz.com/python-programming/online-compiler*)
  - Copy the CipherText on the sheet to your phone with camera or google and check for misplaced symbols to **avvoid** errors.
- - Run the python program (*https://github.com/nightowl9276/Secret/blob/main/DECODER.py*).
- - Manually type or paste the CipherText when the program asks for input.
+ - Run the python program "DECODER.py"(*https://github.com/nightowl9276/Secret/blob/main/DECODER.py*).
+ - Manually type or paste the copied CipherText when the program asks for input.
  - See the message revealing itself...
 
 ## Safety Note 📝
