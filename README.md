@@ -3,7 +3,7 @@
 Welcome, to you ***WhitePearl*** 🪩.
 You might be thinking what to do with that piece of paper.
 Dont worry... The fun awaits...
-feel free to listen to this music while reading: *https://open.spotify.com/track/7AEcphXUR52QGYxdZ8TDVI* (listen it to the end and you won't regret it).
+feel free to listen to this music while reading: *https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj* (listen it to the end and you won't regret it).
 ## Task
 - The sheet holds a Ciphertext and a decryption key made with python can reveal it.
 - You can inspect the code DECODER.py included in this repo.
