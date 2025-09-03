@@ -8,7 +8,7 @@ feel free to listen to this music while reading: *https://open.spotify.com/artis
 - The sheet holds a Ciphertext and a decryption key made with python can reveal it.
 - You can inspect the code DECODER.py included in this repo.
 - Google search the terms you don't understood and don't get confused.
-- Please read everything written here carefully because there might be something hidden inside (👉 **-1 alph** 👈)!.
+- Please read everything written here carefully because there might be something hidden inside!.
 
 # How to Begin?
  ## If you have a PC
